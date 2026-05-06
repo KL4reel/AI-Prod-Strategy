@@ -92,9 +92,20 @@ Complete the build and release with some of this in development, speed is key.
 *Your partner played the Big Tech attacker. What was their plan to kill you?*
 
 **Attacker:**
-It likely will be our main attacker will be someone that does Surveys and they want to add additional value that I offer they don't have already (Alcheme for example)
+It likely will be our main attacker will be someone that does Surveys and they want to add additional value that I offer they don't have already (Alchemer for example)
+
 **Attack vector:**
-Adjacent Expansion
+Adjacent Expansion focused on week Domain Context
+
+**Weeks 1-4 — what they ship:** 
+They ship with additional AI features including what we are advertising we do. 
+
+**Weeks 5-8 — how they poach users:** 
+They start offering additional tailored services and bundled options
+
+**Weeks 9-12 — why users don't come back:** 
+Because they are focused purely on how the tool gives additional value to the customer, but purely digital support, where users want addition solutions that aren't always product related improvements but other engagement abilities like how to now execute those great improvement ideas.
+
 **Your defense:**
 To grow our capabilities to include other aspects of the data and grow our value such that it isn't only a tool for surveys and results, but grow to be a whole echo system that can help with future issues tied to the ultimate goal of improving and growing the business as long term.
 
