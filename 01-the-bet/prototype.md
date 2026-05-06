@@ -22,4 +22,9 @@ For clients C-suite to use and gain insights to how aligned is the business and 
 
 ## Kill Criteria
 <!-- When would you stop? What evidence would kill this bet? -->
+Pause and/or change direction if:
 
+- in the 1st 180day pilot the Churn Rate is above 40%
+- perceived ROI by the clients is below 2X by more than 25% of the clients
+- cost to maintain goes up fast there client aquisition
+- inability to keep adding value such that there is a stronger loop / moat
