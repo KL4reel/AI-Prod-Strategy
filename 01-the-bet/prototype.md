@@ -10,7 +10,7 @@ Lovable
 
 ## Prototype Link
 <!-- Paste the shareable URL -->
-https://orgdiagnosis.lovable.app/
+https://OrgDiagnosis.tech
 
 ## AI Value Archetype
 <!-- Automator / Copilot / Oracle / Creator / Orchestrator -->
