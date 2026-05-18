@@ -33,17 +33,33 @@ That is add-on - additional price to customer
 ## Cascading Strategy
 <!-- Cheap model → frontier model routing logic -->
 
-
-**Triage model:**
-**Frontier model:**
-**Routing rule:**
-**Expected cascade ratio:**
+**Triage model:** GPT4.1min or equivalent Gemini
+**Frontier model:** GPT5.5 or Sonnet 
+**Routing rule:** Small model used for post analysis, buy customer facing related should be frontier model. 
+**Expected cascade ratio:** 50% small modle / 50% frontier model
 
 ## Pricing Model
 
-**Current pricing:**
-**Proposed AI pricing:**
-**Model:** seat-based / usage-based / outcome-based / hybrid
+**Current pricing:** Free as a customer of the consultancies
+
+**Proposed AI pricing:** Non-AI free fold in with consulting service / with AI additional $29 per user.
+
+**Model:** seat-based / usage-based / outcome-based / ***hybrid***
+
+## Pricing Strategy
+- Strategy posture: **Maximize**
+- Pricing model: **Hybrid (base + usage)**
+- Unit of work metered: —
+- Base fee ($/month): Retainer
+- Price per unit: $1
+- Estimated units/user/survey: 29.00
+- **Implied revenue/user: $29.00**
+
+## Decision Note
+Why this pricing structure fits the buyer and the value delivered:
+
+
+
 
 ## Stress Tests
 

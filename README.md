@@ -1,3 +1,5 @@
+
+<!--
 # My AI Product Strategy
 
 > A living strategy built across 6 sessions. Each module adds one component. By Module 6, this repo IS your strategy — version-controlled, board-ready, portable.
@@ -100,3 +102,6 @@
 - **Key Metric:**
 
 → Details: [`06-the-pitch/`](06-the-pitch/)
+
+-->
+
